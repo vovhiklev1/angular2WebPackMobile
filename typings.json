@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "hammerjs": "registry:dt/hammerjs#2.0.8+20160724063812"
+  },
+  "globalDevDependencies": {
+    "hammerjs": "registry:dt/hammerjs#2.0.8+20160724063812"
+  }
+}
