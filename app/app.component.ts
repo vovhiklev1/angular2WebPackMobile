@@ -18,7 +18,7 @@ export class AppComponent implements OnInit, AfterContentInit {
     @ContentChildren(forwardRef(()=> AboutComponent)) abouts;
 
     constructor(@Inject(SingletoneService) private singletoneService) {
-
+//test on server
     }
 
     ngOnInit() {
