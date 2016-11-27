@@ -1,3 +1,4 @@
-/**
- * Created by Vova on 26.11.2016.
- */
+export interface User {
+    id: number,
+    name: string
+}

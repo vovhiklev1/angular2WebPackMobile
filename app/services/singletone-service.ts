@@ -1,5 +1,9 @@
+import {Injectable} from "@angular/core";
+@Injectable()
 export class SingletoneService {
-    constructor(api:string) {
-        
+    port:number = 8080;
+
+    constructor() {
+
     }
 }
